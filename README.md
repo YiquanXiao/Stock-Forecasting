@@ -1,2 +1,2 @@
 # Stock-Forecasting
- USING GARCH MODEL TO PREDICT THE STOCK PRICE OF COMPANY IBM
+ Using GARCH Model to predict the stock price of the company IBM
